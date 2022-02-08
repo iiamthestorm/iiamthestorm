@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-Perkenalkan nama saya **Reihan Maulana**.
+My name is **Reihan Maulana**.
 
-Saya seorang **Data Scientist** di "Untitled Company".
+I'm currently studying at Islam University of Riau. Majoring Informatics.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/reii)ku ya.
+And also a Data Science Enthusiast
+
+If u interested to have some chit-chat with me, please follow me on my [Linkedin](www.linkedin.com/in/reii).
