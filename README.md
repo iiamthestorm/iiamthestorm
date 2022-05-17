@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-![](https://c.tenor.com/Y8ae0C-UsxYAAAAd/yorushika-dancing.gif)  
+![alt](https://c.tenor.com/Y8ae0C-UsxYAAAAd/yorushika-dancing.gif)  
 
 My name is **Reihan Maulana**.
 
