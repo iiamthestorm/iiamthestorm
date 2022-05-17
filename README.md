@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there 👋  
+
+![Alt Text](https://tenor.com/blZMm.gif)  
 
 My name is **Reihan Maulana**.
 
-I'm currently studying at Islam University of Riau. 
-
-An Informatics student.
-
-And also interested in Data Science.
+I'm currently  pursuing a Bachelor's Degree in Informatics Engineering  
+Also a Data Science Enthusiast  
+You can reach me here: reimaul2801@gmail.com  
