@@ -1,6 +1,8 @@
 ### Hi there 👋  
 
-![Alt Text](https://github.com/iiamthestorm/all_gif/blob/main/yorushika-dancing.gif)
+<p align="center">
+  <img src="https://github.com/iiamthestorm/all_gif/blob/main/yorushika-dancing.gif" alt="animated" />
+</p>
 
 My name is **Reihan Maulana**.
 
