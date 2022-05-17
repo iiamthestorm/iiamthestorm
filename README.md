@@ -1,4 +1,6 @@
-### Hi there 👋  
+<p align="center">
+    ### Hi there 👋  
+</p>
 
 <p align="center">
   <img src="https://github.com/iiamthestorm/all_gif/blob/main/yorushika-dancing.gif" alt="animated" />
