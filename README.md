@@ -1,9 +1,9 @@
-<h1>
+<h1 align="center">
   Hello There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<p align="left">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/44041900/169699343-85af3ae3-d078-4415-b104-943cd4e1858c.gif" alt="yorushika-dancing" />
 </p>
 
