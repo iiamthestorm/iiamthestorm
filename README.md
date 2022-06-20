@@ -74,17 +74,6 @@ I am currently an Informatics Engineering Student <img src="https://media.giphy.
 	<a href="https://instagram.com/reifpdl"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
-<!-- <p align="center">
-<a href="https://www.linkedin.com/in/reii" target="blank"><img align="center" src="https://img.shields.io/badge/reii-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:reimaul2801@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/reimaul2801@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="https://twitter.com/rei28m" target="blank"><img align="center" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-</p> -->
-
-<!-- <p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-Tensorflow-c58545?style=for-the-badge&logo=tensorflow&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
-</div>
-</p> -->
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <br>
