@@ -18,4 +18,4 @@ I am currently an Informatics Engineering Student <img src="https://media.giphy.
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=iiamthestorm&theme=dark&background=000000)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iiamthestorm&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iiamthestorm)](https://github.com/anuraghazra/github-readme-stats)
