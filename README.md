@@ -89,4 +89,4 @@ I am currently an Informatics Engineering Student <img src="https://media.giphy.
 </p>
 <br>
 
-[![iiamthestorm Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=iiamthestorm&custom_title=iiamthestorm%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://iiamthestorm.dev)
+[![Reihan Maulana's Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=iiamthestorm&custom_title=iiamthestorm%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://iiamthestorm.dev)
