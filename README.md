@@ -18,7 +18,7 @@
 
 ### :man_technologist: About Me :  
 I am currently an Informatics Engineering Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Islamic University of Riau.
-- :telescope: Exploring Data Science.
+- :telescope: Learning Data Science.
 - :zap: In my free time, I usually listen to Yorushika and solve coding assessment at Codewars.
 
 <p align="center">
