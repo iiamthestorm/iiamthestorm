@@ -1,6 +1,6 @@
 <!---
 your comment goes here
-and heressss
+and heresssss
 -->
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=iiamthestorm&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
