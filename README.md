@@ -1,3 +1,7 @@
+<!---
+your comment goes here
+and heresss
+-->
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=iiamthestorm&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 </p>
@@ -90,8 +94,3 @@ I am currently an Informatics Engineering Student <img src="https://media.giphy.
 <br>
 
 [![Reihan Maulana's Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=iiamthestorm&custom_title=iiamthestorm%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://iiamthestorm.dev)
-
-<!---
-your comment goes here
-and heresss
--->
