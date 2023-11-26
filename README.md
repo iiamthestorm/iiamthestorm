@@ -9,7 +9,7 @@ and heresssss
 <h1 align="center">Heya there!, I'm Reihan Maulana <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;WEB-DEV%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Data Science%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
@@ -21,10 +21,10 @@ and heresssss
 <br>
 
 ### :man_technologist: About Me :  
-I am currently a Computer Science Student at Islamic University of Riau.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: Currently learning Web Dev.
-- :zap: In my free time, I usually listen to Japanese Song and read some books.
-- :books: I love reading Novel, Non-Fiction, Historical Fiction and sometimes Philosophy books.
+I am currently a Computer Science Student at the Islamic University of Riau.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :telescope: Currently learning Data Science.
+- :zap: In my free time, I usually listen to Japanese songs and read some books.
+- :books: I love reading novels, Non-Fiction, Historical Fiction, and sometimes Philosophy books.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
